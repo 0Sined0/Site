@@ -1,0 +1,31 @@
+body {
+	font-size: 16px;
+	padding: 0;
+	margin: 0;
+	color: #000;
+	font-family: 'Advent Pro', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	padding: 0;
+	margin: 0;
+	text-transform: uppercase;
+	color: green;
+}
+
+ul, li {
+	display: block;
+}
+
+.menu {
+	font-size: 18px;
+	font-weight: bold;
+	margin: 0;
+	padding: 33px, 38px;
+}
+
+.container {
+	width: 945px;
+	margin: 0 auto;
+}
+
